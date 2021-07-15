@@ -6,6 +6,9 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/681ab1f5c19ca029dff4/test_coverage)](https://codeclimate.com/github/bskim45/fastlane-plugin-google_drive/test_coverage)
 [![security](https://hakiri.io/github/bskim45/fastlane-plugin-google_drive/master.svg)](https://hakiri.io/github/bskim45/fastlane-plugin-google_drive/master)
 
+## Manual
+Refer `Manual.docx` on how to use the plugin + known issue(s).
+
 ## Getting Started
 
 This project is a [_fastlane_](https://github.com/fastlane/fastlane) plugin. To get started with `fastlane-plugin-google_drive`, add it to your project by running:
