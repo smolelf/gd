@@ -11,3 +11,11 @@ lane :test do |options|
     upload_files: [file_to_upload]
   )
 end
+
+lane :gd_upload do
+  
+  upload_to_google_drive(
+	  folder_id: "GOOGLE_FOLDER_ID",
+	  upload_files: ["test1.txt","test2.png"]
+  )
+end
