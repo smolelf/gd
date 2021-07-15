@@ -7,7 +7,7 @@
 [![security](https://hakiri.io/github/bskim45/fastlane-plugin-google_drive/master.svg)](https://hakiri.io/github/bskim45/fastlane-plugin-google_drive/master)
 
 ## Manual
-Refer [Manual.docx](Manual.docx) on how to use the plugin + known issue(s).
+Refer [_Manual.docx_](Manual.docx) on how to use the plugin + known issue(s).
 
 ## Getting Started
 
